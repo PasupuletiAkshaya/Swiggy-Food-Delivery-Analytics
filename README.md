@@ -219,6 +219,19 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/dashboard_overview.png)
+
+### Restaurant Performance
+![Restaurant Performance](screenshots/dashboard_restaurant.png)
+
+### City Analysis
+![City Analysis](screenshots/dashboard_city.png)
+
+### Cuisine Analysis
+![Cuisine Analysis](screenshots/dashboard_cuisine.png)
 ## Future Enhancements
 
 Possible extensions to this project:
