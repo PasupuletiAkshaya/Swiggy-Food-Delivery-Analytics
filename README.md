@@ -1,3 +1,5 @@
+![Dashboard Preview](screenshots/Dashboard_Executive_Overview.png)
+
 # Swiggy Food Delivery Analytics: End-to-End SQL + Python + Power BI Project
 
 ## Project Overview
@@ -92,14 +94,23 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Structure
 
 ```plaintext
-|-- data/                        # Raw and cleaned Swiggy restaurant data
-|-- screenshots/                 # SQL query and Power BI output screenshots
-|-- sql_queries/                 # SQL scripts for business problem analysis
-|-- powerbi/                     # Power BI .pbix dashboard file
-|-- .gitignore                   # Files and folders ignored by Git
-|-- README.md                    # Project documentation
-|-- swiggy_cleaning.ipynb        # Jupyter notebook for Python cleaning
-|-- requirements.txt             # Required Python libraries
+|-- datasets/                           # Raw and cleaned Swiggy datasets
+|   |-- swiggy.csv
+|   |-- swiggy_cleaned.csv
+|
+|-- python_analysis/                   # Python data cleaning and preprocessing
+|   |-- swiggy_analysis.ipynb
+|
+|-- sql_queries/                       # SQL business problem queries
+|   |-- swiggy_analysis_queries.sql
+|
+|-- powerbi_dashboard/                 # Power BI dashboard files
+|   |-- Swiggy_Analytics_Dashboard.pbix
+|   |-- Swiggy_Analytics_Dashboard.pdf
+|
+|-- screenshots/                       # Dashboard and SQL output screenshots
+|
+|-- README.md                          # Project documentation
 ```
 
 ---
