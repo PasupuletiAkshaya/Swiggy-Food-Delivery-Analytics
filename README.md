@@ -94,23 +94,25 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Structure
 
 ```plaintext
-|-- datasets/                           # Raw and cleaned Swiggy datasets
+|-- data/                         # Raw and cleaned Swiggy restaurant datasets
 |   |-- swiggy.csv
 |   |-- swiggy_cleaned.csv
 |
-|-- python_analysis/                   # Python data cleaning and preprocessing
-|   |-- swiggy_analysis.ipynb
-|
-|-- sql_queries/                       # SQL business problem queries
-|   |-- swiggy_analysis_queries.sql
-|
-|-- powerbi_dashboard/                 # Power BI dashboard files
+|-- powerbi_dashboard/           # Power BI dashboard files
 |   |-- Swiggy_Analytics_Dashboard.pbix
 |   |-- Swiggy_Analytics_Dashboard.pdf
 |
-|-- screenshots/                       # Dashboard and SQL output screenshots
+|-- python_analysis/             # Python data cleaning and analysis notebook
+|   |-- swiggy_analysis.ipynb
 |
-|-- README.md                          # Project documentation
+|-- screenshots/                 # SQL query outputs and dashboard screenshots
+|
+|-- sql_queries/                 # SQL business problem-solving queries
+|   |-- swiggy_analysis_queries.sql
+|
+|-- .gitignore                   # Ignored files and folders
+|-- README.md                    # Project documentation
+|-- requirements.txt             # Required Python libraries
 ```
 
 ---
