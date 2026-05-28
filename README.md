@@ -138,7 +138,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Business Problem 4
 ### Find the restaurants with the highest average order pricing
 
-![Business Problem 4](screenshots/Business_Problem_4.png)
+![Business Problem 4](screenshots/Business_problem_4.png)
 
 ---
 
@@ -222,16 +222,16 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/dashboard_overview.png)
+![Executive Overview](screenshots/Dashboard_Executive_Overview.png)
 
 ### Restaurant Performance
-![Restaurant Performance](screenshots/dashboard_restaurant.png)
+![Restaurant Performance](screenshots/Dashboard_Restaurant_Performance.png)
 
 ### City Analysis
-![City Analysis](screenshots/dashboard_city.png)
+![City Analysis](screenshots/Dashboard_City_Analysis.png)
 
 ### Cuisine Analysis
-![Cuisine Analysis](screenshots/dashboard_cuisine.png)
+![Cuisine Analysis](screenshots/Dashboard_Cuisine_Analysis.png)
 ## Future Enhancements
 
 Possible extensions to this project:
